@@ -2,7 +2,7 @@
   
 TP réalisé en M2 ayant pour but d'implémenter des fonctions simples au bot framework Azure.      
       
-Le bot peut créer un profil pour l'utilisateur et traduire le français en anglais.    
+Le bot peut créer un profil pour l'utilisateur, traduire le français en anglais, afficher les actualités ainsi qu'afficher la météo en fonction de la ville renseignée dans le profil utilisateur.    
 Plus de détails sont contenus dans le fichier "TP - ChatBot avec Microsoft Bot Framework.ipynb".    
 Seul la partie bonus du TP n'a pas été réalisée.    
     
